@@ -131,12 +131,13 @@ Privacy & terms
 
 ## Sections
 
-- Navigation
-- Hero
-- Featured in...
+-x Navigation
+-x Hero
+-x Featured in...
+
 - Features
-- How it works
-- Meals (and list of Diets)
+  -x How it works
+  -x Meals (and list of Diets)
 - Photo Gallery
 - Testimonials
 - Pricing
